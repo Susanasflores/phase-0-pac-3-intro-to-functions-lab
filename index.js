@@ -22,3 +22,4 @@ function sayHiToHeadphonedRoommate(string) {
   }
 }
 
+console.log(sayHiToHeadphonedRoommate("Let's have dinner together!"))
